@@ -76,4 +76,4 @@ var displayWarning = function(repo) {
 
 
 
-getRepoIssues("angular/angular");
+getRepoIssues(repo);
